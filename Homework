@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Visit the Indus Valley Civilization</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f1e6;
+    }
+    header {
+      background-color: #8b5e3c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #c19a6b;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    footer {
+      background-color: #8b5e3c;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Explore the Indus Valley Civilization</h1>
+  <p>Discover one of the world's oldest and most advanced ancient societies</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#geography">Geography</a>
+  <a href="#achievements">Achievements</a>
+  <a href="#visit">Plan Your Visit</a>
+</nav>
+
+<section id="about">
+  <div class="card">
+    <h2>About the Civilization</h2>
+    <p>The Indus Valley Civilization thrived around 2500 BCE along the Indus River. It is known for its advanced cities, organized society, and impressive innovations.</p>
+  </div>
+</section>
+
+<section id="geography">
+  <div class="card">
+    <h2>Geography</h2>
+    <p>Located near the Indus River, this region featured fertile plains perfect for farming. Seasonal flooding helped crops grow, supporting large populations.</p>
+  </div>
+</section>
+
+<section id="achievements">
+  <div class="card">
+    <h2>Major Achievements</h2>
+    <ul>
+      <li>Advanced city planning with grid systems</li>
+      <li>Indoor plumbing and drainage systems</li>
+      <li>Standardized weights and measures</li>
+      <li>Early form of writing</li>
+    </ul>
+  </div>
+</section>
+
+<section id="visit">
+  <div class="card">
+    <h2>Plan Your Visit</h2>
+    <p>Walk through ancient cities like Mohenjo-Daro and Harappa. Experience the birthplace of urban civilization and see history come alive!</p>
+  </div>
+</section>
+
+<footer>
+  <p>Travel back in time – Visit the Indus Valley today!</p>
+</footer>
+
+</body>
+</html>
