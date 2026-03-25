@@ -48,7 +48,7 @@
 
 <header>
   <h1>Explore the Indus Valley Civilization</h1>
-  <p>Discover one of the world's oldest and most advanced ancient societies</p>
+  <p>Discover one of the world's oldest civilazations</p>
 </header>
 
 <nav>
@@ -61,14 +61,14 @@
 <section id="about">
   <div class="card">
     <h2>About the Civilization</h2>
-    <p>The Indus Valley Civilization thrived around 2500 BCE along the Indus River. It is known for its advanced cities, organized society, and impressive innovations.</p>
+    <p>The Indus Valley Civilization thrived allowed the civilazations to thrivive the Indus River. They were known for their advanced cities, increaiable societies, and impressive innovations.</p>
   </div>
 </section>
 
 <section id="geography">
   <div class="card">
     <h2>Geography</h2>
-    <p>Located near the Indus River, this region featured fertile plains perfect for farming. Seasonal flooding helped crops grow, supporting large populations.</p>
+    <p>Located near the Indus River, this region had fertile plains perfect for farming. Flooding allowed crops grow for the benefit of the civilazation</p>
   </div>
 </section>
 
@@ -76,9 +76,8 @@
   <div class="card">
     <h2>Major Achievements</h2>
     <ul>
-      <li>Advanced city planning with grid systems</li>
-      <li>Indoor plumbing and drainage systems</li>
-      <li>Standardized weights and measures</li>
+      
+      <li>drainage systems</li>
       <li>Early form of writing</li>
     </ul>
   </div>
@@ -87,12 +86,12 @@
 <section id="visit">
   <div class="card">
     <h2>Plan Your Visit</h2>
-    <p>Walk through ancient cities like Mohenjo-Daro and Harappa. Experience the birthplace of urban civilization and see history come alive!</p>
+    <p>Walk through ancient cities like Harappa with it's it increadble actriture</p>
   </div>
 </section>
 
 <footer>
-  <p>Travel back in time – Visit the Indus Valley today!</p>
+  <p>Work of Mohammad Hamza</p>
 </footer>
 
 </body>
