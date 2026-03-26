@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Visit the Indus Valley Civilization</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f1e6;
+    }
+    header {
+      background-color: #8b5e3c;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #c19a6b;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    footer {
+      background-color: #8b5e3c;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
 
+<header>
+  <h1>Explore the Indus Valley Civilization</h1>
+  <p>Discover one of the world's oldest civilazations</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#geography">Geography</a>
+  <a href="#achievements">Achievements</a>
+  <a href="#visit">Plan Your Visit</a>
+</nav>
+
+<section id="about">
+  <div class="card">
+    <h2>About the Civilization</h2>
+    <p>The Indus Valley Civilization thrived allowed the civilazations to thrivive the Indus River. They were known for their advanced cities, increaiable societies, and impressive innovations.</p>
+  </div>
+</section>
+
+<section id="geography">
+  <div class="card">
+    <h2>Geography</h2>
+    <p>Located near the Indus River, this region had fertile plains perfect for farming. Flooding allowed crops grow for the benefit of the civilazation</p>
+  </div>
+</section>
+
+<section id="achievements">
+  <div class="card">
+    <h2>Major Achievements</h2>
+    <ul>
+      
+      <li>drainage systems</li>
+      <li>Early form of writing</li>
+    </ul>
+  </div>
+</section>
+
+<section id="visit">
+  <div class="card">
+    <h2>Plan Your Visit</h2>
+    <p>Walk through ancient cities like Harappa with it's it increadble actriture</p>
+  </div>
+</section>
+
+<footer>
+  <p>Work of Mohammad Hamza</p>
+</footer>
+
+</body>
+</html>
